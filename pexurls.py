@@ -26,7 +26,6 @@ urlspumped = 5
 howmanyfetches = 5
 semaphore_num = 5
 url_get_maxretries = 5 * howmanyfetches
-maxtimeout = pex.maxtimeout
 
 print('THE ULTIMATE PinoyExchange Scraper')
 
